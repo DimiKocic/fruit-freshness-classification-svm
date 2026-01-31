@@ -124,5 +124,6 @@ Clone the repository:
 ```bash
 git clone <repository-url>
 cd fruit-freshness-classification
+pip install -r requirements.txt
 
 
